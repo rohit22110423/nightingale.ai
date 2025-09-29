@@ -1,8 +1,8 @@
 import axios from 'axios';
-import { NLP_URL } from '../config';
+const baseURL = process.env.MIDDLEWARE_URL || 'http://localhost:5002/api';
 
 const instance = axios.create({
-  baseURL: NLP_URL,
+  baseURL: baseURL,
   withCredentials: true
 });
 
