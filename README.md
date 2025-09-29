@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Sieve.ai</h3>
+  <h3 align="center">Nightingale.AI</h3>
   <p align="center">
   Let Us Sort the Resumes
   </p>
@@ -7,14 +7,11 @@
 
 <br>
 <br>
-
-> 🚀 Runner Up at Techathon, organized by [GEP](https://gep.com) during summer internship 2021
-
 ## About the Project
 
 Every day, thousands of Job Listings are created to help the companies meet the ever growing demand of market by recruiting fresh talent. The job of a Recruiter is a very hard and important. It’s like identifying a needle in a haystack. But in the age of Artificial Intelligence it can be eased out for them through our product, Sieve.ai.
 
-Sieve.ai reduces the burden on a Recruiter by leaving the tedious and repetitive task of going through thousands of resumes, of which only are handful are relevant. Just upload all the CVs into the system and receive a list of names of candidates and their respective CVs in descending order of their relevance to the Job Description. Reduce your Recruitment Turn Around Time with just a click.
+Nightingale.ai reduces the burden on a Recruiter by leaving the tedious and repetitive task of going through thousands of resumes, of which only are handful are relevant. Just upload all the CVs into the system and receive a list of names of candidates and their respective CVs in descending order of their relevance to the Job Description. Reduce your Recruitment Turn Around Time with just a click.
 
 ## Getting Started
 
@@ -25,7 +22,7 @@ Start developing locally.
 Fork the repository. then clone the repo locally by doing -
 
 ```sh
-git clone https://github.com/rohitbakoliya/sieve.ai.git
+git clone https://github.com/rohit22110423/nightingale.ai.git
 ```
 
 #### Step 2: Install Dependencies
@@ -33,7 +30,7 @@ git clone https://github.com/rohitbakoliya/sieve.ai.git
 cd into the directory
 
 ```sh
-cd sieve.ai
+cd nightingale.ai
 ```
 
 Install dependenices for Web-App
@@ -102,8 +99,7 @@ python app.py
 
 ## Author
 
-- Rishabh Malik
-- Rohit Bakoliya
-- Rohith Saji
-- Sheetal Singh
+Aditya Kumar Nishad
+Ansh Mishra
+Rohit Kumar
 
