@@ -99,6 +99,6 @@ python app.py
 
 ## Author
 
--Aditya Kumar Nishad
--Ansh Mishra
--Rohit Kumar
+Aditya Kumar Nishad  
+Ansh Mishra  
+Rohit Kumar
