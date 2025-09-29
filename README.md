@@ -102,8 +102,6 @@ python app.py
 
 ## Author
 
-- Rishabh Malik
-- Rohit Bakoliya
-- Rohith Saji
-- Sheetal Singh
-
+Aditya Kumar Nishad
+Ansh Mishra
+Rohit Kumar

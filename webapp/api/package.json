@@ -1,5 +1,5 @@
 {
-  "name": "sieve.ai",
+  "name": "nightingale.ai",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,16 +22,16 @@
     "format:staged": "pretty-quick --staged",
     "lf": "yarn lint && yarn format"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rohitbakoliya/seive.ai.git"
-  },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rohitbakoliya/seive.ai/issues"
-  },
-  "homepage": "https://github.com/rohitbakoliya/seive.ai#readme",
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/rohit22110423/nightingale.ai.git"
+},
+"author": "Rohit",
+"license": "MIT",
+"bugs": {
+  "url": "https://github.com/rohit22110423/nightingale.ai/issues"
+},
+"homepage": "https://github.com/rohit22110423/nightingale.ai#readme",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "axios": "^0.21.1",
