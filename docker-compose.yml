@@ -3,7 +3,7 @@ version: '3'
 services:
   middleware:
     build: ./middleware
-    image: alcatraz9/seiveai_middleware
+    image: alcatraz9/nightingale_middleware
     environment:
       - FLASK_ENV=development
       - FLASK_APP=app.py
@@ -21,7 +21,7 @@ services:
 
     depends_on: 
       - middleware 
-    image: alcatraz9/seiveai_webapp
+    image: alcatraz9/nightingaleai_webapp
 
     environment:
       - NODE_ENV=production
